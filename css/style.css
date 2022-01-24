@@ -11,3 +11,13 @@ body{
     color: white;
     position: relative;
 }
+
+
+/* Responsive design */
+/* for mobiles */
+
+@media only screen and (max-width: 600px) {
+    body {
+     justify-content: center;
+    }
+  }
