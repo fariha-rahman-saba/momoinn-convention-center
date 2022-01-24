@@ -4,3 +4,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+#hot-package{
+    background-color: #ffc2c2;
+    border-radius: 30px;
+    color: white;
+    position: relative;
+}
